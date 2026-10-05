@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/razka-birthdayy/',
+  base: process.env.VERCEL ? '/' : '/razka-birthdayy/',
 })
