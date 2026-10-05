@@ -14,12 +14,12 @@ export const EVENT_CONFIG = {
   ceremony: {
     name: 'Ulang Tahun ke-3',
     location: 'Jl Borong Raya Inspeksi Kanal No.2',
-    mapLink: 'https://maps.google.com/?q=Jl+Borong+Raya+Inspeksi+Kanal+No.2'
+    mapLink: 'https://maps.app.goo.gl/ymVasUoEF4WBGaht6?g_st=ic'
   },
   reception: {
     name: 'Acara Utama',
     location: 'Jl Borong Raya Inspeksi Kanal No.2',
-    mapLink: 'https://maps.google.com/?q=Jl+Borong+Raya+Inspeksi+Kanal+No.2'
+    mapLink: 'https://maps.app.goo.gl/ymVasUoEF4WBGaht6?g_st=ic'
   },
   godparents: [
     'John Doe', 'Jane Doe', 'Peter Parker', 'Mary Jane', 'Tony Stark', 'Pepper Potts'
